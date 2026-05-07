@@ -134,8 +134,8 @@ We are proud to have worked with leading organizations across various industries
 ## Explore Our Work
 Check out some of the innovative solutions we have delivered:
 
-- **AI-Powered Analytics Platform**: [View Demo](https://keplor.com/demo/ai-analytics)
-- **Custom Software Solutions**: [Check out our portfolio](https://keplor.com/portfolio)
+- **AI-Powered Analytics Platform**: [View Demo](https://keplor.tech/)
+- **Custom Software Solutions**: [Check out our portfolio](https://keplor.tech/)
 - **Open Source Projects**: [Check out our repositories](https://github.com/orgs/keplor-io/repositories)
 
 ---
@@ -145,7 +145,7 @@ Get in touch with us to learn more about how Keplor can help your business.
 
 - **Email**: [keplorio@gmail.com](mailto:contact@keplor.com)
 - **Phone**: [+91 76786-09018](tel:+917678609018)
-- **Website**: [www.keplor.com](http://www.keplor.com)
+- **Website**: [www.keplor.tech](https://www.keplor.tech)
 
 ---
 
